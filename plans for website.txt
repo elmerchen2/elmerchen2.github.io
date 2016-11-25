@@ -1,0 +1,30 @@
+Brain storm 
+
+website:
+pages 
+ Home About Blogs Movies & TV Sports GameReview News Login (Quote For Today) 
+
+Pictures background
+
+Blogs page(wordpress) 
+Movies Review(movie film) 
+Sports(football,baseballbackground) 
+GameReview (controllerwith games) 
+
+font times new roman 
+
+back ground color: white/blue/grey/green
+
+
+dates mm dd yyy(all web pages) 
+
+
+News on homepage 
+
+
+
+Countdown on incoming movies and new years 
+
+schdeule on posting news 
+
+
